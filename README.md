@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 I'm based in **[Your City, Country - e.g., Yangon, Myanmar]**
+- 🌍 I'm based in **[Yangon, Myanmar]**
 - 🔭 I’m currently working on **[The Notebook](#) & other cool projects**
 - 🌱 I’m currently learning **[Something new you are learning]**
 - 💬 Ask me about **Next.js, React, Supabase, and TailwindCSS**
-- 📫 How to reach me: **[Your Email Address]**
+- 📫 How to reach me: **[khunyeaung@gmail.com]**
 - ⚡ Fun fact: **[Add a fun fact about yourself!]**
 
 ---
