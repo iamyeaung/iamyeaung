@@ -18,18 +18,17 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 I'm based in **[Yangon, Myanmar]**
+- 🌍 I'm based in **Yangon, Myanmar**
 - 🔭 I’m currently working on **[The Notebook](#) & other cool projects**
-- 🌱 I’m currently learning **[Something new you are learning]**
+- 🌱 I’m currently learning **AI Agentic Workflows & Vibe Coding**
+- 💡 I'm deeply interested in **AI Technology, Mathematical Computations, and Statistics 🧮**
 - 💬 Ask me about **Next.js, React, Supabase, and TailwindCSS**
-- 📫 How to reach me: **[khunyeaung@gmail.com]**
-- ⚡ Fun fact: **[Add a fun fact about yourself!]**
+- 📫 How to reach me: **[yeaung.com](https://yeaung.com)**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<!-- Using skillicons.dev for a very clean, uniform look. You can add or remove icons easily. -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,supabase,postgres,docker,git,github,vscode&perline=6" />
@@ -41,14 +40,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyeaung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyeaung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamyeaung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyeaung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamyeaung&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=iamyeaung&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <!-- 
