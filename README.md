@@ -9,7 +9,7 @@
   <a href="https://twitter.com/iamyeaung" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/ye-aung/" target="_blank"> <!-- Update your LinkedIn path here -->
+  <a href="https://www.linkedin.com/in/ye-aung/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -39,16 +39,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamyeaung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyeaung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamyeaung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/iamyeaung)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyeaung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/iamyeaung)
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamyeaung&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamyeaung&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/iamyeaung)
 
 <!-- 
 Optional: If you want the cool snake contribution graph, you can uncomment this section!
