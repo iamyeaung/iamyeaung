@@ -12,6 +12,13 @@ jobs:
   generate-stats:
     runs-on: ubuntu-latest
     steps:
+      - name: Verify GH_TOKEN Secret
+        run: |
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "::error::GH_TOKEN secret is missing or empty! Please make sure you added it exactly as 'GH_TOKEN' in Repository Secrets."
+            exit 1
+          fi
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
